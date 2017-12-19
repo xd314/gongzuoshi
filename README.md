@@ -11,3 +11,6 @@ notes_zhanshi.inc.php
  四
  function_xd314_xd.inc
  这是一个类文件，包含的方法都为功能函数。函数的主要的功能是构成HTML代码。
+五 
+liuyan_shp.inc
+这是 一个具有留言功能的notes文件
